@@ -1,0 +1,3 @@
+Hola Mundo!
+
+Este archivo lo he creado desde la consola, y lo publicare en GitHub como parte de la tarea del modulo 2 del Curso de Henry.
